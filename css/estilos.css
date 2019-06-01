@@ -40,8 +40,8 @@ body{
 
 #footer
 {
-	background: #777;
+	background: rgb(117, 0, 0)119, 119, 119)119, 119, 119)119, 119, 119);
 	color: white;
 	text-align: center;
-	padding: 0.5cm;
+	padding: 0.5em;
 }
