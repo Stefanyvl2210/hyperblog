@@ -1,4 +1,4 @@
-#Hyperblog :tw-1f31e:
+#Hyperblog
 Un blog increible para el curso de Git y Github de [Platzi](https://platzi.com *Platzi*)
 
 ## En este curso vemos de todo:
